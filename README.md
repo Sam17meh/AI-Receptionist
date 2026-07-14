@@ -2,7 +2,7 @@
 
 A voice AI receptionist that handles a salon's appointment booking end-to-end over a phone call — no human needed for routine scheduling. Built as a four-flow n8n backend wired to a [Retell AI](https://www.retellai.com/) conversational voice agents.
 
-## What it does
+## What it doesing
 
 A caller talks to an AI voice agent (Maya) that can:
 - **Book** a new appointment, checking real-time availability against Google Calendar before confirming
