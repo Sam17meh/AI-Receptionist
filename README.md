@@ -1,6 +1,6 @@
 # AI Receptionist — Voice-Based Appointment Booking (n8n + Retell AI + Google Calendar)
 
-A voice AI receptionist that handles a salon's appointment booking end-to-end over a phone call — no human needed for routine scheduling. Built as an four-flow n8n backend wired to a [Retell AI](https://www.retellai.com/) conversational voice agents.
+A voice AI receptionist that handles a salon's appointment booking end-to-end over a phone call — no human needed for routine scheduling. Built as a four-flow n8n backend wired to a [Retell AI](https://www.retellai.com/) conversational voice agents.
 
 ## What it does
 
