@@ -8,7 +8,7 @@ A caller talks to an AI voice agent (Maya) that can:
 - **Book** a new appointment, checking real-time availability against Google Calendar before confirming
 - **Suggest alternatives** automatically if the requested slot is taken (finds the 3 closest open times)
 - **Cancel** an existing appointment by looking it up via the caller's phone number
-- **Reschedule** an existing appointment to a new time, with the same availability checks
+- **Reschedule* an existing appointment to a new time, with the same availability checks
 - **Log** every booking to a Google Sheet for the business owner to review
 
 ## Architecture
