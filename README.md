@@ -4,7 +4,7 @@ A voice AI receptionist that handles a salon's appointment booking end-to-end ov
 
 ## What it does
 
-A caller talks to an AI voice agent ("Maya") that can:
+A caller talks to an AI voice agent ("Maya) that can:
 - **Book** a new appointment, checking real-time availability against Google Calendar before confirming
 - **Suggest alternatives** automatically if the requested slot is taken (finds the 3 closest open times)
 - **Cancel** an existing appointment by looking it up via the caller's phone number
