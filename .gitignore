@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+*.key
+credentials.json
+*.pem
+
+# n8n local data
+.n8n/
+n8n-data/
+
+# ngrok
+ngrok.yml
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
