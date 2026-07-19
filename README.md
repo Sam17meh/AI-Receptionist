@@ -62,6 +62,14 @@ Retell's LLM decides *when* to call each function based on the conversation (e.g
 
 Working end-to-end in test conditions (Retell's Test LLM). Not yet connected to a live phone number — next step would be SIP trunking (e.g. via Twilio) for real inbound calls.
 
+## More docs
+
+- [Node reference](docs/NODES.md) — what each node in each flow does
+- [Troubleshooting](docs/TROUBLESHOOTING.md) — timezone drift, Retell not calling functions, lookup failures
+- [Flow diagram](docs/FLOW_DIAGRAM.md) — visual overview of all four flows
+- [Changelog](CHANGELOG.md)
+- [Contributing](CONTRIBUTING.md)
+
 ---
 
 Built by [Samarth Mehrotra](https://github.com/Sam17meh) as part of ongoing work in AI/automation engineering.
